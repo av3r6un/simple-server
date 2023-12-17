@@ -1,0 +1,9 @@
+AUTHOR: //github.com/av3r6un
+PROJECT_NAME: SimpleServer
+VERSION: 1.0.0
+admin:
+  email: admin@example.com
+  passwords:
+  - admin
+  - admin
+  username: admin
